@@ -1,3 +1,4 @@
 Hello everyone this file contains the db related code
 Hi
-Hoe are you
+How are you
+This file contains all the requirements
